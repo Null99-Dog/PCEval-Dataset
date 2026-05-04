@@ -1,5 +1,5 @@
 # PCEval: A Benchmark for Evaluating Physical Computing Capabilities of Large Language Models
-> **Note:** This dataset is released as part of the supplementary materials for **ICLR 2026 submission #13535**.
+> **Note:** This dataset is released as part of the supplementary materials.
 
 <!--Figure: docs/front.png-->
 ![Figure: docs front](docs/front.png)
